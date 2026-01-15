@@ -5,6 +5,8 @@ image: images/figma.jpg
 draft: false
 ---
 
+_Photo de couverture : [Alexander Shatov](https://unsplash.com/@alexbemore) sur [Unsplash](https://unsplash.com)_
+
 ## Fiche de domaine
 
 |                   |                                                                                                                                                                                   |
