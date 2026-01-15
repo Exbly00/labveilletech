@@ -1,11 +1,9 @@
 ---
 title: "À propos"
 date: 2026-01-15T10:00:00+01:00
-image: images/nadine-shaabana-ZPP-zP8HYG0-unsplash.jpg
+image: images/figma.jpg
 draft: false
 ---
-
-# À propos
 
 ## Fiche de domaine
 
@@ -40,12 +38,8 @@ Mon objectif professionnel est clair : devenir **UI designer d'exécution d'appl
 
 Ce blog utilise **Hugo**, un générateur de sites statiques (SSG) imposé dans le cadre de ce projet académique. Hugo présente plusieurs avantages pour un blog de veille :
 
-- **Performance exceptionnelle** – génération ultra-rapide pour une lecture optimale
-- **Simplicité** – contenu en Markdown facile à rédiger
-- **Sécurité** – pas de base de données, site léger et fiable
-- **Déploiement facile** – compatible avec de nombreuses plateformes gratuites
-- **Focus sur le contenu** – structure simple pour se concentrer sur l'essentiel
-
----
-
-_Ce blog a été créé dans le cadre du cours "Laboratoire de veille technologique" du Bachelor Ingénierie des Médias à la HEIG-VD._
+- **Performance exceptionnelle** : génération ultra-rapide pour une lecture optimale
+- **Simplicité** : contenu en Markdown facile à rédiger
+- **Sécurité** : pas de base de données, site léger et fiable
+- **Déploiement facile** : compatible avec de nombreuses plateformes gratuites
+- **Focus sur le contenu** : structure simple pour se concentrer sur l'essentiel
