@@ -7,6 +7,8 @@ categories: ["Intelligence Artificielle", "Développement"]
 image: "/images/ia.jpg"
 ---
 
+_Photo de couverture : [Igor Omilaev](https://unsplash.com/fr/@omilaev) sur [Unsplash](https://unsplash.com)_
+
 ## Une révolution à double tranchant
 
 Dans le domaine de l'UI design, l'intelligence artificielle s'est imposée récemment comme un nouvel acteur majeur. Des outils comme Figma AI, Uizard ou encore Midjourney permettent désormais de générer des interfaces complètes à partir d'un simple prompt textuel. Si cette innovation technologique peut sembler séduisante pour gagner du temps, elle soulève une question fondamentale : ces outils constituent-ils une aide réelle à l'apprentissage ou risquent-ils d'appauvrir notre pratique du design ?
