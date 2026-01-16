@@ -2134,3 +2134,45 @@ video {
     line-height: 1;
   }
 }
+
+/* Custom improvements for better aesthetics */
+
+/* Subtle shadows on cards and buttons */
+.rounded-full,
+.rounded-lg,
+.rounded-2xl,
+.rounded-3xl {
+  box-shadow: 0 2px 8px rgba(33, 40, 71, 0.08);
+  transition: all 0.3s ease;
+}
+
+/* Enhanced hover effects */
+.rounded-full:hover,
+.bg-zinc-100:hover,
+.bg-zinc-200:hover {
+  box-shadow: 0 4px 12px rgba(33, 40, 71, 0.15);
+  transform: translateY(-1px);
+}
+
+/* Article cards hover effect */
+article:hover {
+  box-shadow: 0 8px 20px rgba(33, 40, 71, 0.12);
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+}
+
+/* Typography improvements */
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+/* Smooth transitions for all interactive elements */
+button, a {
+  transition: all 0.3s ease;
+}
+
+/* Better focus states */
+button:focus, a:focus {
+  outline: 2px solid #212847;
+  outline-offset: 2px;
+}
