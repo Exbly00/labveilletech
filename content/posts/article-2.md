@@ -1,6 +1,6 @@
 ---
 title: "Mon système d'écoute"
-date: 2025-12-15T14:30:00+01:00
+date: 2026-01-15T14:30:00+01:00
 draft: false
 tags: ["travail", "productivité", "Ecoute", "Veille"]
 categories: ["Travail"]

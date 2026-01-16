@@ -1,6 +1,6 @@
 ---
 title: "LLM et UI Design : Aide ou entrave à l'apprentissage ?"
-date: 2025-12-10T10:00:00+01:00
+date: 2026-01-16T10:00:00+01:00
 draft: false
 tags: ["IA", "machine-learning", "développement"]
 categories: ["Intelligence Artificielle", "Développement"]
