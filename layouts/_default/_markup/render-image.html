@@ -1,0 +1,11 @@
+{{- $src := .Destination -}}
+{{- $alt := .Text -}}
+{{- $title := .Title -}}
+
+{{- /* Si c'est une URL externe, on la garde telle quelle */ -}}
+{{- if or (hasPrefix $src "http://") (hasPrefix $src "https://") -}}
+  <img src="{{ $src }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}>
+{{- else -}}
+  {{- /* Pour les chemins locaux, on utilise relURL pour avoir le bon chemin */ -}}
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}>
+{{- end -}}
