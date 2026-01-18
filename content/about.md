@@ -1,10 +1,11 @@
 ---
 title: "À propos"
 date: 2026-01-15T10:00:00+01:00
-type: page
-layout: about
+image: images/figma.jpg
 draft: false
 ---
+
+_Photo de couverture : [Alexander Shatov](https://unsplash.com/@alexbemore) sur [Unsplash](https://unsplash.com)_
 
 ## Fiche de domaine
 
@@ -31,13 +32,13 @@ Après un apprentissage de médiamaticienne complété par une maturité profess
 
 Ce qui me fascine dans l'UI design, c'est la capacité à donner vie visuellement aux idées, à créer des expériences numériques attractives qui captivent l'utilisateur. J'adore particulièrement l'aspect **création visuelle** : composer des layouts harmonieux, choisir les couleurs et typographies qui racontent une histoire. Mais au-delà de l'esthétique, ce qui me motive profondément, c'est de savoir que mon travail facilite l'utilisation d'une application pour tout le monde.
 
-{{< image src="images/Ikigai.png" alt="Mon Ikigai" >}}
+![Mon Ikigai](images/Ikigai.png)
 
 Mon **Ikigai** se situe à l'intersection entre design visuel, rigueur technique et collaboration. Durant ma formation, j'ai découvert que ce que j'apprécie le plus, c'est de pouvoir travailler en équipe pour comprendre les besoins des utilisateurs et les transformer en visuels concrets. Figma est devenu mon outil de prédilection pour créer des interfaces organisées et cohérentes, qui facilitent ensuite le travail de développement.
 
 Mon objectif professionnel est clair : devenir **UI designer d'exécution d'application**, un rôle qui me permettra de me concentrer sur la création visuelle tout en contribuant à rendre le numérique plus accessible.
 
-{{< image src="images/Graphe.png" alt="Organisation de ma veille" >}}
+![Organisation de ma veille](images/Graphe.png)
 
 ## Pourquoi Hugo ?
 
